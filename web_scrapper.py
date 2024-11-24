@@ -15,8 +15,9 @@ if response.status_code == 200:
     # Parse the HTML content of the page with BeautifulSoup
     soup = BeautifulSoup(response.content, 'html.parser')
 
+    #this part of the spesific place you want to go from is wrong
     # Find all article titles (example: <h2> tags with class 'title')
-    titles = soup.find_all('h2', class_='title')
+    title = soup.find_all('h2', class_='title')
 
     # Loop through the titles and print them
     for title in titles:
