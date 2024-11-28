@@ -1,0 +1,568 @@
+Linfield,YODL 2,UCLA IV,YODL 1,Princeton,Links
+"                  name      category       team institution  Rk1  R1  \
+0     Catherine Dudley          Open    CC SADU          CC  1st  77   
+1          June LePage          Open    CC LEMC          CC  1st  80   
+2     Spencer McDonald          Open    CC LEMC          CC  1st  79   
+3         Charlie Said          Open    CC SADU          CC  1st  77   
+4       Brad Tomasovic          Open    CC THTO          CC  1st  77   
+5         Dylan Berman          Open   SEA HEBE         SEA  1st  78   
+6         Kate Wilkins  Open, Novice    CC LIWI          CC  3rd  77   
+7       Davis Thompson          Open    CC THTO          CC  1st  77   
+8        Maltin Tocani          Open   LCC TOMO         LCC  2nd  77   
+9          Danny Herre          Open   SEA HEBE         SEA  1st  78   
+10      Isabella Moore          Open   LCC TOMO         LCC  2nd  78   
+11        Aiden Dopson          Open  WILL DODI        WILL  2nd  78   
+12         Leah Melvin  Open, Novice    CC SAME          CC  1st  76   
+13         Ethan Smith          Open   LIN JOSM         LIN  1st  77   
+14      Aurora Salinas  Open, Novice    CC SAME          CC  1st  76   
+15       Khyaan Choksi  Open, Novice   LCC FICH         LCC  4th  76   
+16        Merren Troll  Open, Novice  WILL TRCO        WILL  2nd  77   
+17        Pepper Berry          Open   SEA DOBE         SEA  2nd  77   
+18      Clara Johansen          Open   LIN JOSM         LIN  1st  77   
+19       Trinity Doyle          Open   SEA DOBE         SEA  2nd  76   
+20       Kaylee Little  Open, Novice    CC LIWI          CC  3rd  76   
+21          Ronan Cole  Open, Novice  WILL TRCO        WILL  2nd  75   
+22          Jase Frost          Open    CC FRHA          CC  2nd  77   
+23         Emily Mowat          Open    CC MOST          CC  3rd  75   
+24     Anzhela Stoliar          Open    CC MOST          CC  3rd  75   
+25      Calvin Pittser  Open, Novice   SEA JAPI         SEA  3rd  75   
+26         Roan Keller          Open  WILL KECH        WILL  3rd  75   
+27       Elise Fischer  Open, Novice   LCC FICH         LCC  4th  76   
+28          Sam Nagele  Open, Novice   SEA KHNA         SEA  3rd  75   
+29           Katy Keim          Open    CC KECR          CC  4th  75   
+30           Ava Digre          Open  WILL DODI        WILL  2nd  76   
+31         Sal Chappel          Open  WILL KECH        WILL  3rd  74   
+32  Na&#x27;ama Shuall  Open, Novice   LCC KOSH         LCC  4th  75   
+33   Ashlynne Jeffries          Open    CC JEBA          CC  4th  74   
+34      Kayden Crozier          Open    CC KECR          CC  4th  73   
+35      Vicente Ortega          Open    CC ORWI          CC  3rd  75   
+36      Madison Kollar  Open, Novice   LCC KOSH         LCC  4th  74   
+37      Divisha Khanna  Open, Novice   SEA KHNA         SEA  3rd  74   
+38         Evan Sailer  Open, Novice    CC SAPO          CC  4th  74   
+39     Lola Baerlocher          Open    CC JEBA          CC  4th  74   
+40       Hadley Wilcox          Open    CC ORWI          CC  3rd  75   
+41      Samira Jamaale          Open   SEA JAPI         SEA  3rd  73   
+42         Aurora Dunn  Open, Novice   SEA DUSL         SEA  2nd  76   
+43       Jenna Hammond          Open    CC FRHA          CC  2nd  76   
+44     Sophie Portmann  Open, Novice    CC SAPO          CC  4th  73   
+45      Joseph Gellman  Open, Novice   SEA BRGE         SEA  4th  72   
+46          Rio Slevin  Open, Novice   SEA DUSL         SEA  2nd  74   
+47       Loraina Brady  Open, Novice   SEA BRGE         SEA  4th  70   
+
+                 side1                                         adj1  Rk2  R2  \
+0   Opening Opposition    Frank StumboⒸ , Alex Cruz , Beth Anderson  1st  79   
+1   Closing Government  Katie JonesⒸ , A Olszewski , Christopher Hu  2nd  77   
+2   Closing Government  Katie JonesⒸ , A Olszewski , Christopher Hu  2nd  78   
+3   Opening Opposition    Frank StumboⒸ , Alex Cruz , Beth Anderson  1st  78   
+4   Opening Opposition        Brian SungⒸ , Ed Strok , Megan Towles  2nd  76   
+5   Closing Government              Josiah ButlerⒸ , Vinny Gallardo  1st  76   
+6   Opening Opposition              Josiah ButlerⒸ , Vinny Gallardo  3rd  78   
+7   Opening Opposition        Brian SungⒸ , Ed Strok , Megan Towles  2nd  75   
+8   Closing Opposition              Josiah ButlerⒸ , Vinny Gallardo  3rd  75   
+9   Closing Government              Josiah ButlerⒸ , Vinny Gallardo  1st  77   
+10  Closing Opposition              Josiah ButlerⒸ , Vinny Gallardo  3rd  75   
+11  Opening Government  Katie JonesⒸ , A Olszewski , Christopher Hu  3rd  75   
+12  Opening Opposition                  Kelly WelchⒸ , Justin Wiley  4th  76   
+13  Closing Opposition                  Kyle SessionsⒸ , Dylan Pool  3rd  77   
+14  Opening Opposition                  Kelly WelchⒸ , Justin Wiley  4th  76   
+15  Opening Government              Josiah ButlerⒸ , Vinny Gallardo  3rd  75   
+16  Closing Government    Frank StumboⒸ , Alex Cruz , Beth Anderson  2nd  75   
+17  Opening Government                  Kyle SessionsⒸ , Dylan Pool  1st  77   
+18  Closing Opposition                  Kyle SessionsⒸ , Dylan Pool  3rd  76   
+19  Opening Government                  Kyle SessionsⒸ , Dylan Pool  1st  76   
+20  Opening Opposition              Josiah ButlerⒸ , Vinny Gallardo  3rd  76   
+21  Closing Government    Frank StumboⒸ , Alex Cruz , Beth Anderson  2nd  76   
+22  Closing Opposition        Brian SungⒸ , Ed Strok , Megan Towles  4th  75   
+23  Closing Government        Brian SungⒸ , Ed Strok , Megan Towles  1st  78   
+24  Closing Government        Brian SungⒸ , Ed Strok , Megan Towles  1st  78   
+25  Opening Opposition  Katie JonesⒸ , A Olszewski , Christopher Hu  1st  80   
+26  Opening Government                  Kelly WelchⒸ , Justin Wiley  3rd  76   
+27  Opening Government              Josiah ButlerⒸ , Vinny Gallardo  3rd  74   
+28  Closing Opposition    Frank StumboⒸ , Alex Cruz , Beth Anderson  2nd  78   
+29  Opening Opposition                  Kyle SessionsⒸ , Dylan Pool  4th  76   
+30  Opening Government  Katie JonesⒸ , A Olszewski , Christopher Hu  3rd  74   
+31  Opening Government                  Kelly WelchⒸ , Justin Wiley  3rd  77   
+32  Opening Government        Brian SungⒸ , Ed Strok , Megan Towles  2nd  77   
+33  Closing Government                  Kelly WelchⒸ , Justin Wiley  1st  78   
+34  Opening Opposition                  Kyle SessionsⒸ , Dylan Pool  4th  76   
+35  Closing Government                  Kyle SessionsⒸ , Dylan Pool  4th  74   
+36  Opening Government        Brian SungⒸ , Ed Strok , Megan Towles  2nd  78   
+37  Closing Opposition    Frank StumboⒸ , Alex Cruz , Beth Anderson  2nd  78   
+38  Opening Government    Frank StumboⒸ , Alex Cruz , Beth Anderson  2nd  76   
+39  Closing Government                  Kelly WelchⒸ , Justin Wiley  1st  77   
+40  Closing Government                  Kyle SessionsⒸ , Dylan Pool  4th  74   
+41  Opening Opposition  Katie JonesⒸ , A Olszewski , Christopher Hu  1st  78   
+42  Closing Opposition                  Kelly WelchⒸ , Justin Wiley  4th  72   
+43  Closing Opposition        Brian SungⒸ , Ed Strok , Megan Towles  4th  73   
+44  Opening Government    Frank StumboⒸ , Alex Cruz , Beth Anderson  2nd  75   
+45  Closing Opposition  Katie JonesⒸ , A Olszewski , Christopher Hu  4th  74   
+46  Closing Opposition                  Kelly WelchⒸ , Justin Wiley  4th  73   
+47  Closing Opposition  Katie JonesⒸ , A Olszewski , Christopher Hu  4th  74   
+
+    ...               side4                             adj4 Total    Avg  \
+0   ...  Closing Government  Kyle SessionsⒸ , Yanna Welsberg   314  78.50   
+1   ...  Opening Government  Kyle SessionsⒸ , Yanna Welsberg   314  78.50   
+2   ...  Opening Government  Kyle SessionsⒸ , Yanna Welsberg   314  78.50   
+3   ...  Closing Government  Kyle SessionsⒸ , Yanna Welsberg   312  78.00   
+4   ...  Opening Opposition  Kyle SessionsⒸ , Yanna Welsberg   312  78.00   
+5   ...  Closing Opposition  Kyle SessionsⒸ , Yanna Welsberg   310  77.50   
+6   ...  Closing Government       Kelly WelchⒸ , A Olszewski   309  77.25   
+7   ...  Opening Opposition  Kyle SessionsⒸ , Yanna Welsberg   309  77.25   
+8   ...  Opening Opposition    Katie JonesⒸ , Vinny Gallardo   309  77.25   
+9   ...  Closing Opposition  Kyle SessionsⒸ , Yanna Welsberg   309  77.25   
+10  ...  Opening Opposition    Katie JonesⒸ , Vinny Gallardo   308  77.00   
+11  ...  Closing Opposition       Kelly WelchⒸ , A Olszewski   307  76.75   
+12  ...  Closing Government    Katie JonesⒸ , Vinny Gallardo   306  76.50   
+13  ...  Opening Government       Kelly WelchⒸ , A Olszewski   306  76.50   
+14  ...  Closing Government    Katie JonesⒸ , Vinny Gallardo   305  76.25   
+15  ...  Closing Opposition      Josiah ButlerⒸ , Brian Sung   305  76.25   
+16  ...  Opening Government    Katie JonesⒸ , Vinny Gallardo   305  76.25   
+17  ...  Closing Opposition    Katie JonesⒸ , Vinny Gallardo   305  76.25   
+18  ...  Opening Government       Kelly WelchⒸ , A Olszewski   304  76.00   
+19  ...  Closing Opposition    Katie JonesⒸ , Vinny Gallardo   304  76.00   
+20  ...  Closing Government       Kelly WelchⒸ , A Olszewski   303  75.75   
+21  ...  Opening Government    Katie JonesⒸ , Vinny Gallardo   303  75.75   
+22  ...  Opening Opposition      Josiah ButlerⒸ , Brian Sung   303  75.75   
+23  ...  Opening Government            Ed StrokⒸ , Alex Cruz   303  75.75   
+24  ...  Opening Government            Ed StrokⒸ , Alex Cruz   303  75.75   
+25  ...  Closing Government      Josiah ButlerⒸ , Brian Sung   303  75.75   
+26  ...  Closing Opposition            Ed StrokⒸ , Alex Cruz   303  75.75   
+27  ...  Closing Opposition      Josiah ButlerⒸ , Brian Sung   302  75.50   
+28  ...  Opening Government      Josiah ButlerⒸ , Brian Sung   302  75.50   
+29  ...  Closing Opposition     Frank StumboⒸ , Megan Towles   302  75.50   
+30  ...  Closing Opposition       Kelly WelchⒸ , A Olszewski   302  75.50   
+31  ...  Closing Opposition            Ed StrokⒸ , Alex Cruz   302  75.50   
+32  ...  Closing Government     Frank StumboⒸ , Megan Towles   301  75.25   
+33  ...  Opening Opposition            Ed StrokⒸ , Alex Cruz   301  75.25   
+34  ...  Closing Opposition     Frank StumboⒸ , Megan Towles   301  75.25   
+35  ...  Opening Government     Frank StumboⒸ , Megan Towles   301  75.25   
+36  ...  Closing Government     Frank StumboⒸ , Megan Towles   300  75.00   
+37  ...  Opening Government      Josiah ButlerⒸ , Brian Sung   300  75.00   
+38  ...  Closing Government            Ed StrokⒸ , Alex Cruz   299  74.75   
+39  ...  Opening Opposition            Ed StrokⒸ , Alex Cruz   299  74.75   
+40  ...  Opening Government     Frank StumboⒸ , Megan Towles   299  74.75   
+41  ...  Closing Government      Josiah ButlerⒸ , Brian Sung   299  74.75   
+42  ...  Opening Opposition       Kelly WelchⒸ , A Olszewski   297  74.25   
+43  ...  Opening Opposition      Josiah ButlerⒸ , Brian Sung   297  74.25   
+44  ...  Closing Government            Ed StrokⒸ , Alex Cruz   296  74.00   
+45  ...  Opening Opposition     Frank StumboⒸ , Megan Towles   296  74.00   
+46  ...  Opening Opposition       Kelly WelchⒸ , A Olszewski   296  74.00   
+47  ...  Opening Opposition     Frank StumboⒸ , Megan Towles   293  73.25   
+
+   Stdev     team.1 institution.1  result                side  \
+0   1.12    CC FRHA            CC     2nd  Opening Opposition   
+1   1.50    CC JEBA            CC     2nd  Opening Opposition   
+2   1.80    CC KECR            CC     2nd  Closing Opposition   
+3   1.22    CC LEMC            CC     2nd  Opening Government   
+4   1.58    CC LIWI            CC     2nd  Closing Government   
+5   2.96    CC MOST            CC     3rd  Opening Government   
+6   0.43    CC ORWI            CC     1st  Opening Government   
+7   1.48    CC SADU            CC     3rd  Closing Government   
+8   1.48    CC SAME            CC     3rd  Closing Government   
+9   2.86    CC SAPO            CC     4th  Closing Government   
+10  1.22    CC THTO            CC     4th  Opening Opposition   
+11  1.30   LCC FICH           LCC     1st  Closing Opposition   
+12  0.87   LCC KOSH           LCC     3rd  Closing Government   
+13  0.87   LCC TOMO           LCC     1st  Opening Opposition   
+14  1.09   LIN JOSM           LIN     3rd  Opening Government   
+15  0.83   SEA BRGE           SEA     4th  Opening Opposition   
+16  1.30   SEA DOBE           SEA     2nd  Closing Opposition   
+17  0.83   SEA DUSL           SEA     4th  Opening Opposition   
+18  0.71   SEA HEBE           SEA     1st  Closing Opposition   
+19  1.41   SEA JAPI           SEA     3rd  Closing Government   
+20  0.43   SEA KHNA           SEA     4th  Opening Government   
+21  0.83  WILL DODI          WILL     1st  Closing Opposition   
+22  0.83  WILL KECH          WILL     1st  Closing Opposition   
+23  1.48  WILL TRCO          WILL     4th  Opening Government   
+24  1.48        NaN           NaN     NaN                 NaN   
+25  2.59        NaN           NaN     NaN                 NaN   
+26  0.83        NaN           NaN     NaN                 NaN   
+27  0.87        NaN           NaN     NaN                 NaN   
+28  1.50        NaN           NaN     NaN                 NaN   
+29  0.50        NaN           NaN     NaN                 NaN   
+30  1.12        NaN           NaN     NaN                 NaN   
+31  1.12        NaN           NaN     NaN                 NaN   
+32  1.09        NaN           NaN     NaN                 NaN   
+33  1.64        NaN           NaN     NaN                 NaN   
+34  1.30        NaN           NaN     NaN                 NaN   
+35  1.09        NaN           NaN     NaN                 NaN   
+36  1.87        NaN           NaN     NaN                 NaN   
+37  1.73        NaN           NaN     NaN                 NaN   
+38  0.83        NaN           NaN     NaN                 NaN   
+39  1.30        NaN           NaN     NaN                 NaN   
+40  0.83        NaN           NaN     NaN                 NaN   
+41  1.92        NaN           NaN     NaN                 NaN   
+42  1.48        NaN           NaN     NaN                 NaN   
+43  1.30        NaN           NaN     NaN                 NaN   
+44  1.00        NaN           NaN     NaN                 NaN   
+45  1.22        NaN           NaN     NaN                 NaN   
+46  1.22        NaN           NaN     NaN                 NaN   
+47  1.92        NaN           NaN     NaN                 NaN   
+
+                       adjudicators  
+0       Josiah ButlerⒸ , Brian Sung  
+1             Ed StrokⒸ , Alex Cruz  
+2      Frank StumboⒸ , Megan Towles  
+3   Kyle SessionsⒸ , Yanna Welsberg  
+4        Kelly WelchⒸ , A Olszewski  
+5             Ed StrokⒸ , Alex Cruz  
+6      Frank StumboⒸ , Megan Towles  
+7   Kyle SessionsⒸ , Yanna Welsberg  
+8     Katie JonesⒸ , Vinny Gallardo  
+9             Ed StrokⒸ , Alex Cruz  
+10  Kyle SessionsⒸ , Yanna Welsberg  
+11      Josiah ButlerⒸ , Brian Sung  
+12     Frank StumboⒸ , Megan Towles  
+13    Katie JonesⒸ , Vinny Gallardo  
+14       Kelly WelchⒸ , A Olszewski  
+15     Frank StumboⒸ , Megan Towles  
+16    Katie JonesⒸ , Vinny Gallardo  
+17       Kelly WelchⒸ , A Olszewski  
+18  Kyle SessionsⒸ , Yanna Welsberg  
+19      Josiah ButlerⒸ , Brian Sung  
+20      Josiah ButlerⒸ , Brian Sung  
+21       Kelly WelchⒸ , A Olszewski  
+22            Ed StrokⒸ , Alex Cruz  
+23    Katie JonesⒸ , Vinny Gallardo  
+24                              NaN  
+25                              NaN  
+26                              NaN  
+27                              NaN  
+28                              NaN  
+29                              NaN  
+30                              NaN  
+31                              NaN  
+32                              NaN  
+33                              NaN  
+34                              NaN  
+35                              NaN  
+36                              NaN  
+37                              NaN  
+38                              NaN  
+39                              NaN  
+40                              NaN  
+41                              NaN  
+42                              NaN  
+43                              NaN  
+44                              NaN  
+45                              NaN  
+46                              NaN  
+47                              NaN  
+
+[48 rows x 28 columns]","               team               name      category institution  Rk1  R1  \
+0    Air Force GoHo        Nathan Good          Open   Air Force  1st  79   
+1    Air Force GoHo        Grace Hoyte          Open   Air Force  1st  78   
+2    Air Force HaMa        Noah Marino  Open, Novice   Air Force  4th  73   
+3    Air Force HaMa      Calin Hartzog  Open, Novice   Air Force  4th  74   
+4    Air Force KeNe     Audrey Neukomm          Open   Air Force  3rd  74   
+..              ...                ...           ...         ...  ...  ..   
+187  Wisconsin HaNa        Sandy Nayar          Open   Wisconsin  1st  77   
+188  Wisconsin PaPa  Dheeraj Pasikanti          Open   Wisconsin  2nd  78   
+189  Wisconsin PaPa      Joseph Panzer          Open   Wisconsin  2nd  76   
+190  Wisconsin ThPr        Brian Thome          Open   Wisconsin  1st  75   
+191  Wisconsin ThPr   Amitai Ben Porat          Open   Wisconsin  1st  74   
+
+                  side1                                               adj1  \
+0    Closing Opposition   Daewon HwangⒸ , Dylan Hines , Patrick DeCabooter   
+1    Closing Opposition   Daewon HwangⒸ , Dylan Hines , Patrick DeCabooter   
+2    Closing Opposition  Austin ThomaⒸ , Dejaun Wright , Jake MacDuff ,...   
+3    Closing Opposition  Austin ThomaⒸ , Dejaun Wright , Jake MacDuff ,...   
+4    Opening Opposition      Kitana HudgensⒸ , Bailey Walters , Ronan Cole   
+..                  ...                                                ...   
+187  Closing Government    Ariel SchuckⒸ , Chris Skiles , Kenneth(H) Ogden   
+188  Opening Opposition  Jacob RatliffⒸ , Julia Giacomet-Thomazoni , Mi...   
+189  Opening Opposition  Jacob RatliffⒸ , Julia Giacomet-Thomazoni , Mi...   
+190  Opening Opposition      Neleah RichardsonⒸ , Matt Fox , Reece Aguilar   
+191  Opening Opposition      Neleah RichardsonⒸ , Matt Fox , Reece Aguilar   
+
+     Rk2  R2  ... Total    Avg  Trim Stdev          team.1 institution.1  \
+0    1st  78  ...   309  77.25  77.5  1.48  Air Force GoHo     Air Force   
+1    1st  77  ...   307  76.75  77.5  1.64  Air Force HaMa     Air Force   
+2    3rd  76  ...   300  75.00  75.5  1.22  Air Force KeNe     Air Force   
+3    3rd  75  ...   299  74.75  74.5  0.83  Air Force LiDo     Air Force   
+4    2nd  78  ...   304  76.00  76.0  2.00  Air Force LiEg     Air Force   
+..   ...  ..  ...   ...    ...   ...   ...             ...           ...   
+187  1st  79  ...   309  77.25  77.0  1.09             NaN           NaN   
+188  2nd  78  ...   309  77.25  77.5  0.83             NaN           NaN   
+189  2nd  78  ...   304  76.00  76.0  1.41             NaN           NaN   
+190  4th  74  ...   297  74.25  74.5  2.17             NaN           NaN   
+191  4th  75  ...   297  74.25  74.5  2.17             NaN           NaN   
+
+    result                side       ballot  \
+0      3rd  Opening Government  View Ballot   
+1      1st  Opening Opposition  View Ballot   
+2      1st  Closing Opposition  View Ballot   
+3      1st  Opening Government  View Ballot   
+4      1st  Opening Opposition  View Ballot   
+..     ...                 ...          ...   
+187    NaN                 NaN          NaN   
+188    NaN                 NaN          NaN   
+189    NaN                 NaN          NaN   
+190    NaN                 NaN          NaN   
+191    NaN                 NaN          NaN   
+
+                                          adjudicators  
+0           Jason JordanⒸ , Max Breiling , Skye Whalen  
+1      Simone DavidⒸ , Edy Arteaga , Parisa Burchfield  
+2       Ryan DavisⒸ , Emma Mullet , Patrick DeCabooter  
+3       Parker DavidsonⒸ , Austin Thoma , Cooper Smith  
+4    Mckayla MontgomeryⒸ , Katie Jones , Stephania ...  
+..                                                 ...  
+187                                                NaN  
+188                                                NaN  
+189                                                NaN  
+190                                                NaN  
+191                                                NaN  
+
+[192 rows x 31 columns]","                      name     category  \
+0        Tejas Subramaniam          NaN   
+1             Elizabeth Li          NaN   
+2       Conna Leslie-Keefe          NaN   
+3         Amitai Ben Porat          NaN   
+4            Claire Beamer          NaN   
+..                     ...          ...   
+91         Vanshika Makkar       Novice   
+92                  Cayden          NaN   
+93  Marceli Amelia Potocki  Novice, ESL   
+94           Hongyun Zhang  Novice, ESL   
+95                 Swing 5          NaN   
+
+                                      team  Rk1  R1               side1  \
+0       Stanford endogeneity strikes again  2nd  81  Opening Government   
+1       Stanford endogeneity strikes again  2nd  80  Opening Government   
+2            UNSW Leslie-Keefe &amp; Doyle  1st  81  Closing Opposition   
+3                    Stanford Intransigent  1st  79  Opening Opposition   
+4                    Stanford Intransigent  1st  80  Opening Opposition   
+..                                     ...  ...  ..                 ...   
+91                              UBC T-bird  4th  71  Opening Opposition   
+92                    UCLA womp womp swing  2nd   —  Closing Opposition   
+93      PTNK Somebody gonna match my freak  3rd  76  Opening Opposition   
+94  MPU Macao Polytechnic University pls m  4th  73  Opening Government   
+95                  UCLA swing swang swung    —   —  Opening Opposition   
+
+                                                 adj1  Rk2  R2  \
+0   Lucy MurphyⒸ , Fairooj Rushmila Suhita , Gabri...  1st  82   
+1   Lucy MurphyⒸ , Fairooj Rushmila Suhita , Gabri...  1st  81   
+2                          Will RyanⒸ , Lucie Slamova  1st  81   
+3   Uphie AbdurrahmanⒸ , Jodel Avenis , Khyaan Cho...  1st  80   
+4   Uphie AbdurrahmanⒸ , Jodel Avenis , Khyaan Cho...  1st  79   
+..                                                ...  ...  ..   
+91                         Will RyanⒸ , Lucie Slamova  3rd  74   
+92  Prosper Michael AmetuⒸ , Aaditya Singh , Brook...  3rd  75   
+93   Narayan SharmaⒸ , Agastya Govind , Cali PeixotoⓉ  4th   —   
+94   Narayan SharmaⒸ , Agastya Govind , Cali PeixotoⓉ  4th  74   
+95  Lucy MurphyⒸ , Fairooj Rushmila Suhita , Gabri...    —   —   
+
+                 side2  ...               side5  \
+0   Opening Opposition  ...  Closing Government   
+1   Opening Opposition  ...  Closing Government   
+2   Opening Government  ...  Closing Opposition   
+3   Opening Government  ...  Closing Opposition   
+4   Opening Government  ...  Closing Opposition   
+..                 ...  ...                 ...   
+91  Closing Government  ...  Closing Government   
+92  Closing Government  ...  Closing Government   
+93  Closing Government  ...  Opening Government   
+94  Closing Government  ...  Opening Government   
+95  Closing Opposition  ...  Closing Government   
+
+                                                 adj5 Total    Avg Stdev  \
+0    Lucy MurphyⒸ , Prosper Michael Ametu , Will Ryan   408  81.60  0.49   
+1    Lucy MurphyⒸ , Prosper Michael Ametu , Will Ryan   404  80.80  0.75   
+2    Lucy MurphyⒸ , Prosper Michael Ametu , Will Ryan   403  80.60  0.80   
+3   Klaudia MaciejewskaⒸ , Aleksandra Durbazeva , ...   400  80.00  1.67   
+4   Klaudia MaciejewskaⒸ , Aleksandra Durbazeva , ...   398  79.60  1.02   
+..                                                ...   ...    ...   ...   
+91                        Raymond QiuⒸ , Cali Peixoto   294  73.50  1.50   
+92  Uphie AbdurrahmanⒸ , Lucie Slamova , Mikołaj J...   232  77.33  1.70   
+93                      Jake MacDuffⒸ , Aaditya Singh   228  76.00  1.63   
+94   Lucy MurphyⒸ , Prosper Michael Ametu , Will Ryan   147  73.50  0.50   
+95  Uphie AbdurrahmanⒸ , Lucie Slamova , Mikołaj J...    77  77.00  0.00   
+
+                            team.1 result                side       ballot  \
+0        Calgary Bitorko Onushilon    4th  Closing Government  View Ballot   
+1                Cornell Zigzagoon    3rd  Opening Opposition  View Ballot   
+2   Drexel Make Drexel Great Again    3rd  Closing Opposition  View Ballot   
+3                           DSB BG    2nd  Closing Government  View Ballot   
+4                           DSB HZ    1st  Opening Opposition  View Ballot   
+..                             ...    ...                 ...          ...   
+91                             NaN    NaN                 NaN          NaN   
+92                             NaN    NaN                 NaN          NaN   
+93                             NaN    NaN                 NaN          NaN   
+94                             NaN    NaN                 NaN          NaN   
+95                             NaN    NaN                 NaN          NaN   
+
+                                         adjudicators  
+0        Kayla PowersⒸ , Dennis Su , Ryosei Kobayashi  
+1   Klaudia MaciejewskaⒸ , Aleksandra Durbazeva , ...  
+2        Kayla PowersⒸ , Dennis Su , Ryosei Kobayashi  
+3                       Jake MacDuffⒸ , Aaditya Singh  
+4         Wajeeh MaazⒸ , Narayan Sharma , Rahul Datta  
+..                                                ...  
+91                                                NaN  
+92                                                NaN  
+93                                                NaN  
+94                                                NaN  
+95                                                NaN  
+
+[96 rows x 31 columns]","                    name      category            team institution  Rk1  R1  \
+0          Fallon Eggett          Open  Air Force EgLi   Air Force  1st  79   
+1           Dylan Berman          Open    Seattle HeBe     Seattle  1st  77   
+2          Jacquelyn Liu          Open  Air Force EgLi   Air Force  1st  77   
+3            Nathan Good          Open  Air Force GoHo   Air Force  2nd  79   
+4          Selena Little          Open  Air Force LiDo   Air Force  2nd  77   
+..                   ...           ...             ...         ...  ...  ..   
+171             Madeline          Open     Denver MaMi      Denver  4th  72   
+172         Samuel Lewis          Open         KU MaLe          KU  3rd  74   
+173       Joseph Gellman  Open, Novice    Seattle GePi     Seattle  4th  70   
+174  James Alexandr Carr  Open, Novice   Loyola JaMuKh      Loyola  3rd  70   
+175        Emma Bordelon  Open, Novice     Alaska BoHe      Alaska  4th  71   
+
+                  side1                                               adj1  \
+0    Closing Government                           Hans GebauerⒸ , Matt Fox   
+1    Opening Opposition  David RomanelliⒸ , Calin Hartzog , Mikhail Bot...   
+2    Closing Government                           Hans GebauerⒸ , Matt Fox   
+3    Closing Opposition      John RiefⒸ , Ashleigh Weinstock , Evan Sailer   
+4    Closing Government                     Rob MargessonⒸ , Jumico Evi(H)   
+..                  ...                                                ...   
+171  Closing Opposition  Gavin SicardⒸ , Junias Lunsford-Peaks , Mya Doyle   
+172  Opening Government       Jason JordanⒸ , Dylan Legend , Kaden Crozier   
+173  Closing Opposition     Julian HenryⒸ , Ronan Cole , Taisei Summerhays   
+174  Opening Opposition     Margo HarnessⒸ , Abigail Kingsford , Alex Cruz   
+175  Closing Opposition        Gavin GillⒸ , Curry Chandler , James Hirsch   
+
+     Rk2  R2  ... Total    Avg Stdev  Trim          team.1 institution.1  \
+0    1st  77  ...   315  78.75  1.09  79.0  Air Force EgLi     Air Force   
+1    1st  78  ...   311  77.75  0.43  78.0  Air Force GoHo     Air Force   
+2    1st  77  ...   311  77.75  1.30  77.0  Air Force HaHa     Air Force   
+3    1st  77  ...   310  77.50  1.12  77.5  Air Force KeNe     Air Force   
+4    1st  78  ...   310  77.50  1.12  77.5  Air Force LiDo     Air Force   
+..   ...  ..  ...   ...    ...   ...   ...             ...           ...   
+171  3rd  72  ...   289  72.25  1.09  72.0             NaN           NaN   
+172  4th  71  ...   289  72.25  1.30  72.0             NaN           NaN   
+173  3rd  71  ...   286  71.50  2.06  70.5             NaN           NaN   
+174  2nd  73  ...   285  71.25  1.30  71.0             NaN           NaN   
+175  4th  69  ...   285  71.25  1.48  71.5             NaN           NaN   
+
+    result                side       ballot  \
+0      1st  Opening Opposition  View Ballot   
+1      1st  Opening Government  View Ballot   
+2      3rd  Opening Opposition  View Ballot   
+3      1st  Closing Government  View Ballot   
+4      3rd  Opening Opposition  View Ballot   
+..     ...                 ...          ...   
+171    NaN                 NaN          NaN   
+172    NaN                 NaN          NaN   
+173    NaN                 NaN          NaN   
+174    NaN                 NaN          NaN   
+175    NaN                 NaN          NaN   
+
+                                          adjudicators  
+0        John PatrickⒸ , Amanda Padgett , Julian Henry  
+1        Kitana HudgensⒸ , Curry Chandler , Ronan Cole  
+2      Kylle ZapataⒸ , Evan Sailer , Taisei Summerhays  
+3    Mckayla MontgomeryⒸ , Peace John-Kalio(H) , Wu...  
+4    Emma MulletⒸ , Kaden Crozier , Thulani Khumalo(H)  
+..                                                 ...  
+171                                                NaN  
+172                                                NaN  
+173                                                NaN  
+174                                                NaN  
+175                                                NaN  
+
+[176 rows x 31 columns]","                     name category                                team  Rk1  \
+0              Matt Caito      NaN                 Open Matt and Paula  1st   
+1          Matt Mauriello      NaN                  Open Matt and Robi  1st   
+2               Tanae Rao      NaN                      Inner Temple B  1st   
+3               Sam Druce      NaN  Open lubricated probe covers for m  1st   
+4                Ayal Mor      ESL                             HUJI AA  1st   
+..                    ...      ...                                 ...  ...   
+278  Mattias Durán Santis      ESL                              PUCP C    —   
+279   Kleven, Jiawen Deng   Novice                break or break a leg    —   
+280            Becky Alek      ESL                        Strathmore A    —   
+281              ZH Masud      ESL                               NSU B    —   
+282     Sissy, Sizi Zhang   Novice                break or break a leg    —   
+
+     R1               side1  \
+0    81  Opening Opposition   
+1    80  Opening Government   
+2    80  Closing Government   
+3    82  Closing Opposition   
+4    80  Closing Opposition   
+..   ..                 ...   
+278   —  Closing Government   
+279   —  Opening Opposition   
+280   —  Opening Government   
+281   —  Opening Government   
+282   —  Opening Opposition   
+
+                                                  adj1  Rk2  R2  \
+0       Mohammed HabibⒸ , Jane Mentzinger , Thang Tran  1st  84   
+1                                Aliya FairuzⒸ , Aryan  1st  83   
+2               Saleem SalisuⒸ , Afzal Hussain , Basim  2nd  82   
+3    Uphie AbdurrahmanⒸ , Nkosilathi Nkala , Robyn ...  2nd  81   
+4        Wurdaan KashifⒸ , Pranav Anand , Rashi Sharma  1st  84   
+..                                                 ...  ...  ..   
+278  Nafis Hasan RumanⒸ , Aron Josh Bernaldo , Xiao...    —   —   
+279        Eli FerrellⒸ , Eve Pigat , Aryamman BhatiaⓉ    —   —   
+280      Jessica ZapataⒸ , Mishaal Said , Pjotr Koster    —   —   
+281      Vladimira SuflajⒸ , Rose Zhou , Vedika KediaⓉ    —   —   
+282        Eli FerrellⒸ , Eve Pigat , Aryamman BhatiaⓉ    —   —   
+
+                  side2  ...  R4               side4  \
+0    Closing Opposition  ...  82  Closing Government   
+1    Opening Opposition  ...  82  Closing Opposition   
+2    Opening Government  ...  82  Closing Opposition   
+3    Closing Government  ...  79  Opening Government   
+4    Opening Government  ...  82  Closing Government   
+..                  ...  ...  ..                 ...   
+278  Opening Opposition  ...   —  Closing Opposition   
+279  Closing Opposition  ...   —  Closing Government   
+280  Opening Opposition  ...   —  Closing Government   
+281  Closing Government  ...   —  Closing Opposition   
+282  Closing Opposition  ...   —  Closing Government   
+
+                                                  adj4  Rk5  R5  \
+0    Xiao-ke LuⒸ , Ayush Kanaujia , Melina Piatti-C...  1st  83   
+1    Youngwoo ParkⒸ , Laura Zhang , Tarannum Tasnim...  1st  84   
+2         Pranav AnandⒸ , Ram Orfanel , Sarah Willrich  2nd  82   
+3         Pranav AnandⒸ , Ram Orfanel , Sarah Willrich  1st  82   
+4          Reana YanⒸ , Rubaiyat Samad , Saleem Salisu  4th  79   
+..                                                 ...  ...  ..   
+278     Aymaan SheikhⒸ , Alif Hossain , Geneva Luteria    —   —   
+279         Andres ReveloⒸ , Kunal Dhawan , Mahle Qina    —   —   
+280                        Jenna HongⒸ , Aryan Khokher    —   —   
+281    Ananya KrishnaⒸ , Mishaal Said , Onyido Prosper    —   —   
+282         Andres ReveloⒸ , Kunal Dhawan , Mahle Qina    —   —   
+
+                  side5                                               adj5  \
+0    Closing Opposition  Diego DuarteⒸ , Jane Mentzinger , Tousif Tanvi...   
+1    Closing Government      Jaleelah AmmarⒸ , Nadia Blouin , Vedika Kedia   
+2    Opening Government  Sachin TisseraⒸ , Keshav , Tavish Joshi , Shre...   
+3    Opening Opposition  Diego DuarteⒸ , Jane Mentzinger , Tousif Tanvi...   
+4    Opening Government  Sachin TisseraⒸ , Keshav , Tavish Joshi , Shre...   
+..                  ...                                                ...   
+278  Closing Government      Jaleelah AmmarⒸ , Nadia Blouin , Vedika Kedia   
+279                 NaN                                                NaN   
+280  Closing Government      Jaleelah AmmarⒸ , Nadia Blouin , Vedika Kedia   
+281  Closing Government  Sachin TisseraⒸ , Keshav , Tavish Joshi , Shre...   
+282                 NaN                                                NaN   
+
+    Total   Avg Stdev  
+0     411  82.2  1.17  
+1     408  81.6  1.85  
+2     407  81.4   0.8  
+3     406  81.2  1.17  
+4     405    81  1.79  
+..    ...   ...   ...  
+278     —     —     —  
+279     —     —     —  
+280     —     —     —  
+281     —     —     —  
+282     —     —     —  
+
+[283 rows x 26 columns]","    https://mahaffey2024.calicotab.com/mahaffey2024/
+0  https://yodl2ay25.calicotab.com/yodlnov2024/re...
+1  https://yodl1ay2425.calicotab.com/yodloct2024/...
+2  https://princetoniv2024.calicotab.com/princeto...
+3       https://uclaiv2024.calicotab.com/uclaiv2024/"
