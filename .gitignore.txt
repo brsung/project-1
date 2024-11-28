@@ -1,9 +1,0 @@
-# Ignore all .log files
-*.log
-
-# Ignore the data directory
-data/
-
-# Ignore temporary system files
-.DS_Store
-Thumbs.db
